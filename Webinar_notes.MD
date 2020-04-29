@@ -3,8 +3,8 @@ Ana Martinovici (assistant professor of marketing  attention, decision making
 Github.com/anamartinovici/githubfun
 
 ## News
-•	R-Ladies Netherlands book club: rladiesnl.github.io/book_club
-•	How to use R and the tidyverse to clean, plot and analyze data: github.com/aschetti/ERIM2020_intro_tidyverse
+-	R-Ladies Netherlands book club: rladiesnl.github.io/book_club
+-	How to use R and the tidyverse to clean, plot and analyze data: github.com/aschetti/ERIM2020_intro_tidyverse
 
 ## Why we should use version control
 Best practice: use version control from the start of the project and document your code. It will be shareable more easily.
@@ -15,7 +15,7 @@ Why version control? Some research goals:
 - Share your work with the world: you can make your repos public or private and also add a (software) license to the repository
 - Reproducible results: if you can take the original data and original computer code used to analyze the data and reproduce all of the numerical findings from the study. Spectrum:
 
-[spectrum]()
+![](https://github.com/eur-synclab/githubfun/blob/master/Reproducibility_spectrum.jpg)
 
 Goal: reproduce all results and nothing but the results included in the current version of the paper and previous analyses as fast and easy as possible. 
 - Best case scenario: raw data > cleaning/processing > processed data > analysis > results
@@ -29,9 +29,9 @@ Things that can go wrong without version control:
 - Software changes
 
 Version control:
-•	Time travel
-•	Safe place for your data and code
-•	Notes to your future self
+-	Time travel
+-	Safe place for your data and code
+-	Notes to your future self
 
 Git: formal version control system. Developed by Linus Torvalds (used to manage the course code for Linux). Tracks content: source code, data analysis projects, websites, presentations, manuscripts.
 Github: home for git repositories, interface for exploring public git repositories. A safe place to keep code and data. Additional benefits: issues (notes to yourself or collaborators), projects, wiki, insights.
@@ -44,8 +44,9 @@ Why use GitHub?
 - Free for researchers and students
 
 ## How to use version control
-General idea
-[image_general_idea]()
+General idea:
+
+![](https://github.com/eur-synclab/githubfun/blob/master/Github_process.jpg)
 
 Vocabulary
 - Repository (repo): folder containing all tracked files as well as the version control history
